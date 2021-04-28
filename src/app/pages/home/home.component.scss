@@ -1,0 +1,39 @@
+form{
+    text-align:center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul li label{
+    width:130px;
+    display:inline-block;
+    height:20px;
+    text-align:left;
+}
+
+ul li input{
+    width:130px;
+    height:20px;
+}
+
+.pais{
+    width: 130px;
+    height: 20px;
+    text-align: left;
+}
+
+.genero{
+    display:inline-block;
+    width: 130px;
+    height:20px;
+    text-align: left;
+}
+
+.radio{
+    vertical-align: middle;
+    
+    width: 130px;
+    height:20px;
+}
